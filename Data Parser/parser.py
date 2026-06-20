@@ -32,7 +32,7 @@ def clean_file(filename):
         for line in data:
             file.write(line)
 
-
-src_dir = "D:\\Visual Studio\\Rust\\LLM\\Data Parser\\Data"
-for file in os.listdir(src_dir):
-    clean_file(src_dir + "\\" + file)
+if __name__ == "__main__":
+    src_dir = "D:\\Visual Studio\\Rust\\LLM\\Data Parser\\Data"
+    for file in os.listdir(src_dir):
+        clean_file(src_dir + "\\" + file)
