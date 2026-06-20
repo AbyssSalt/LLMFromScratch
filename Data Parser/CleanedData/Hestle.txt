@@ -1,0 +1,290 @@
+[me]: https://dolphin-emu.org/download/
+[me]: https://vimm.net/vault/17747
+[me]: https://www.7-zip.org/a/7z2107-x64.exe
+[me]: 70.24.159.170:2626
+[me]: Mario Party 8 (RM8E01, Revision 2)"
+[hestle]: 71.59.14.146:2626
+[me]: 70.24.159.170:2626
+[me]: @Hestle
+[hestle]: was eating
+[me]: okie
+[hestle]: we uhh kinda exchanged ips
+[me]: ?
+[hestle]: the numbers for mario
+[me]: they arent our actual ips
+[me]: dw
+[me]: its the ip that dolphin made
+[hestle]: i looked it up it's my location ._.
+[me]: huh
+[hestle]: hmm
+[me]: ¯\_(ツ)_/¯
+[me]: idc about my location too much
+[hestle]: ok
+[me]: so i can just host from now on
+[hestle]: ok x2
+[me]: btd6
+[me]: do the new boss with me
+[me]: @Hestle
+[me]: @Hestle
+[me]: @Hestle
+[me]: Started a call that lasted 1 minutes.
+[me]: @Hestle
+[me]: Started a call that lasted 49 minutes.
+[hestle]: LUMHB-XAZEF
+[hestle]: Join my coop game on Bloons TD 6! https://join.btd6.com/Coop/XYVDPS
+[me]: Join my boss game on Bloons TD 6! https://join.btd6.com/Boss/XYVDSB
+[me]: XYVEEX
+[hestle]: Join my coop game on Bloons TD 6! https://join.btd6.com/Coop/XYTDSP
+[me]: bermuda triangle
+[me]: yo
+[hestle]: yo
+[me]: play tetis with me
+[hestle]: ok well im vcing with irls
+[me]: ok later then
+[hestle]: ok
+[me]: i will frame pizza for liking genshin
+[me]: crack will keep you awake
+[me]: crackers and soup
+[me]: crack rhymes with quack
+[me]: https://discord.gg/EqhbaZfP?event=983487763158560798
+[me]: 1 - 1
+2 - 1
+[me]: 5 - 1
+[me]: 6 - 0
+[me]: 8 - yes
+[me]: 9 - 0
+[hestle]: revive
+[hestle]: my creation
+[hestle]: where are thou
+[hestle]: while True:   symbol = input("Input an operation ")    if symbol != "+" and symbol != "-" and symbol != "*" and symbol != "x" and symbol != "/" and symbol != "^" and symbol != "**":     print("Please enter a valid operation\n")     continue   one = input("Number ")   two = input(f"{one} {symbol} ")      if symbol == "+":     sum = float(one) + float(two)   if symbol == "-":     sum = float(one) - float(two)   if symbol == "*" or "x":     sum = float(one) * float(two)   if symbol == "/":     sum = float(one)/float(two)   if symbol == "^" or "**":     sum = float(one)**float(two)    print(f"{one}{symbol}{two}={sum}")
+[hestle]: list = []
+list.append(input(1))
+list.append(input(2))
+list.append(input(3))
+list.append(input(4))
+list.append(input(5))
+print(list)
+[hestle]: list = []
+list.append(input(1))
+list.append(input(2))
+list.append(input(3))
+list.append(input(4))
+list.append(input(5))
+list1 = list
+print(list1)
+[hestle]: list = []
+list.append(input(1))
+list.append(input(2))
+list.append(input(3))
+list.append(input(4))
+list.append(input(5))
+list1 = list
+for list1 in list:
+  print(list1)
+[me]: https://discord.gg/47CmW7Bp
+[me]: yo
+[me]: where wand
+[hestle]: im still a minor
+[me]: i got hacked
+[me]: YOOOOOO
+[me]: Combat stamps
+Heart stamp - villas
+Wis stamp - Crystal carrots maestro
+Feather stamp - Pig salt quest
+Battleaxe stamp - ^^^
+Shield stamp - ^^^^^
+Gold fist stamp - level up gift
+Gold sword stamp - global warming quest?
+Diamond sword stamp - nope
+Luck stamp - w3 crystal farming
+All stats stamp - peak gaming?
+Diamond battleaxe stamp - like to move it?
+Black heart stamp - w4 crystals
+Skills stamps
+Platchet stamp - thermister
+Alch stamp - tropilogs...
+Fishing stamp - aciddental exploit
+Fishing2 stamp - ^^^(?)
+Fly stamp - w2 crystals
+Poisonic frozen stamp - gravity Pig
+Worship stamp - w3 crystals
+Misc stamps
+Cumjar stamp - pathetic gaming
+Ballin stamp - arcade...
+Ballin2 stamp - arcade.....
+Pot stamp - stamp collecting quest
+Gapple stamp - nope
+Ballin3 stamp - arcade.......
+Card stamp - levelup gift
+T3 stamp - chonker quest
+TS stamp - can can can can quest
+Book stamp - chunk
+DNA stamp - wait.. I have this one!
+WORSHIPPING SKULLS YOU NONCE
+TRAPS YOU NONCE
+FORGE YOU NONCE
+SAMPLES YOU NONCE
+VIALS YOU NONCE
+[me]: Pov grinding stamps
+[hestle]: you're stupiid
+[me]: wasnp me
+[me]: ¯\_(ツ)_/¯
+[me]: wood, pitcher, shed, gear
+[me]: where do you put the bat when you are done using it
+[me]: and it is gear for the player
+[hestle]: swing/parage
+[me]: Death Row, Disease, Bolt will kill, school shootings
+[me]: bolt action guns, bolts shot out of crossbows
+[hestle]: 🗿
+[hestle]: kill yourself
+[me]: roca is doing itn
+[me]: not me
+[me]: hes moving me
+[hestle]: send me info for next sap game
+[hestle]: chrisgreatgaurd@gmail.com
+[me]: The page follows Proper MLA style guidelines
+[me]: in-text citations follow proper MLA formatting
+[me]: introduction has effective hook
+[me]: introduction effectively introduces the topic and writers opinion
+[me]: there are three effective methods of development clearly labeled
+[me]: there are two stylistic devices clearly labeled
+[me]: at least three well structured body paragraphs
+[me]: 2 of 4 sources refferenced in essay
+[me]: conclusion effectively summarizes essay
+[me]: essay is convincing
+[me]: there is a call to action
+[me]: grammar
+[hestle]: The page follows Proper MLA style guidelines: 3/4
+in-text citations follow proper MLA formatting: 3/4
+introduction has effective hook: 4/4
+introduction effectively introduces the topic and writers opinion: 3/4
+there are three effective methods of development clearly labeled: 3/4
+there are two stylistic devices clearly labeled: 3/4
+at least three well-structured body paragraphs: 4/4
+2 of 4 sources referenced in the essay: 3/4
+conclusion effectively summarizes essay: 4/4
+essay is convincing: 4/4
+there is a call to action: 3/4
+grammar: 2/4
+Overall, the essay is very well-written and effectively argues against internet censorship. It is well-organized with clear and effective methods of development, and the writer's opinions are introduced effectively in the introduction. Along with that, the introduction is exemplary, using well-planned metaphors. The use of two stylistic devices and proper MLA formatting for in-text citations shows attention to detail, but the grammar is subpar. The essay is convincing and effectively summarizes the main points while also providing a decent call to action.
+[hestle]: In conclusion, internet censorship has many shortcomings and challenges that need to be addressed. While it was originally intended to protect children from explicit content and prevent hate speech, it has been exploited and used to silence those who speak out against oppression and mistreatment by their governments. The current system is heavily biased towards the wealthy, powerful, and popular, leading to a monopoly on speech that ignores and silences many people who are not born with wealth and privilege. Furthermore, censorship often fails to achieve its intended purpose and can be used to manipulate people's beliefs and thoughts about the government. While AI could prove to be a powerful tool for censorship, it is essential to ensure that it is not biased and that it respects the principles of free speech. Therefore, it is crucial to balance the need to protect children and prevent hate speech with the need to maintain the right to free speech and prevent the abuse of power by those in authority.
+[hestle]: 2647 Devonsley Cres Oakville ON L6H 6J2
+[me]: Gaurd
+[hestle]: What
+[me]: Can i commision a 3d model
+[hestle]: Of why
+[hestle]: What
+[me]: A piece for my sisters lunchbox
+[hestle]: Send dimensions
+[me]: Tmrw
+[me]: But its not going to be a copy i want to make a change
+[hestle]: Just send a drawing and label the stuff
+[me]: K
+[me]: spam click ad q for darts
+[me]: moight be w actually
+[hestle]: you should exist
+[me]: cant helping comrade
+[hestle]: you've made pax sad
+[hestle]: 😔
+[hestle]: line up the shots with the edges of the wiggling
+[me]: Aim off to the side so that the edge of the swing arc is in line with the path
+[me]: @hest
+[me]: @Hestle
+[hestle]: I’m at a wedding
+[hestle]: No
+[me]: guard, just you fucking wait you little sadistic shit
+[me]: just you fucking wait
+[me]: Bro got nae-naed and rage quit
+[me]: ||Y||||o||||u|||| ||||k||||n||||o||||w|||| ||||w||||h||||a||||t|||| ||||p||||a||||l|||| ||||i|||| ||||w||||a||||n||||t|||| ||||t||||o|||| ||||s||||u||||b||||j||||e||||c||||t|||| ||||y||||o||||u|||| ||||t||||o|||| ||||t||||h||||i||||s|||| ||||n||||e||||w|||| ||||f||||o||||r||||m|||| ||||o||||f|||| ||||t||||o||||r||||t||||u||||r||||e|||| ||||t||||h||||a||||t|||| ||||i|||| ||||h||||a||||v||||e|||| ||||c||||o||||m||||e|||| ||||a||||c||||r||||o||||s||||s||
+[me]: @Hestle
+[me]: Join all the contrqcts
+[me]: Or atleast the fireworks one
+[me]: I really need help
+[hestle]: bomba
+[hestle]: omw
+[hestle]: reinforcements approach
+[me]: 5.8t on an egg with 1/6 the value of rocket fuel
+[me]: WAIT THEY ARE ALL HARDER CAUSE MY GRADE WENT UP
+[me]: But the rewarda are huge too
+[me]: 190k soul
+[me]: @Hestle
+[me]: join the btd6 team
+[me]: we gotta win boss rush event
+[hestle]: I’m sleeping bro
+[me]: 💀
+[me]: i cant stop laughing at that
+[me]: https://tenor.com/view/kryonax-skull-gif-26476587
+[hestle]: watesigma
+[me]: i
+[me]: DO NOT
+[me]: care
+[me]: https://tenor.com/view/kys-keep-yourself-safe-low-tier-god-gif-24664025
+[hestle]: usually send it to leaguers
+[hestle]: thought you would like it 😔
+[hestle]: give me the approval my father never did
+[me]: run balatro
+[me]: WE LOVE TAGS
+[hestle]: just watched my gros michel implode after the first round
+[me]: we gotta run the baltro multiplayer mod
+[hestle]: bruh
+[me]: peak
+[hestle]: blueprint brainstorm ectoplasm
+[hestle]: and my gros michel did not decide to combust after first round
+[me]: Major Arcana is an acceptable answer???
+[hestle]: idk
+[me]: thats like saying that deck of cards is an acceptable answer to "mens formal wear"
+[hestle]: its like saying kleenex for tissues
+[hestle]: its similar
+[me]: NO IT AINT
+[me]: its like saying tissue box is correct for what you blow your nose with
+[me]: you dont use the bloody box
+[me]: you use whats in it
+[me]: Why you awake
+[me]: Go to sleep
+[hestle]: no
+[hestle]: its not serious
+[me]: what about it?
+[hestle]: i got 4 clubs
+[hestle]: in me hand
+[hestle]: i dont got 5
+[me]: ah
+[hestle]: fuckass game
+[me]: what is your fool on
+[hestle]: temperance
+[hestle]: got some money
+[me]: 🫡
+[me]: should have had it on death
+[hestle]: bruh
+[hestle]: how am i supposed to expect not drawing clubs
+[hestle]: im touching you
+[me]: always prep for the worst bro
+[me]: we gotta run the multiplayer mod man
+[hestle]: ok i got a blueprint start
+[hestle]: round 1
+[hestle]: and i fucking died
+[me]: bp sucks early
+[me]: Gaurd 1v1
+[me]: Gurd
+[me]: What is gcse?
+[hestle]: funy game
+[me]: WHY ARE YOU STILL GRINDING THAT?
+[hestle]: me play number
+[hestle]: bruh it kicked me internet
+[hestle]: time to sleep
+[me]: What are GCSEs?
+[me]: God said pack it up
+[hestle]: https://en.wikipedia.org/wiki/GCSE
+[hestle]: i think its like a replacement for high school diploma
+[hestle]: or not idk
+[me]: Ok, I will ask roca since england
+[me]: I thought it was a US thing
+[me]: @Hestle
+[me]: how many'd you get
+[me]: not done yet btw, last one 2 guesses
+[hestle]: i got them all
+[hestle]: i locked in
+[me]: I had a guess to spare
+[hestle]: Tim hortons down the road from me
+[me]: 😲
+[me]: https://tenor.com/view/i-love-tim-hortons-tim-hortons-canada-canadian-intellectual-gif-23549063
+[me]: 019e9559-110d-dc25-6f71-cafd1d94809c
